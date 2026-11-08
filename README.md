@@ -1,7 +1,7 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
-**Name:** Tejas R  
-**Registration Number:** 252U1R8093  
+**Name:** M. Dhyana Raghavendra
+**Registration Number:** 252U1R8052  
 **Class:** B.Tech CSE (Quantum Engineering) – 2B  
 **Section:** S-13 204  
 **Local Server:** `http://localhost:3000`
