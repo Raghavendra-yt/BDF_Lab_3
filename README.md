@@ -1,6 +1,7 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
 **Name:** M. Dhyana Raghavendra
+
 **Registration Number:** 252U1R8052  
 **Class:** B.Tech CSE (Quantum Engineering) – 2B  
 **Section:** S-13 204  
