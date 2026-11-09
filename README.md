@@ -210,12 +210,12 @@ Error responses use a consistent JSON message format.
 
 The REST API is deployed on Render and accessible through the following URL:
 
-**Live Application:** [https://bdf-lab-03-4csv.onrender.com](https://bdf-lab-03-4csv.onrender.com)
+**Live Application:** [https://bdf-lab-3-t3tb.onrender.com](https://bdf-lab-3-t3tb.onrender.com)
 
 ### Live API Endpoints
 
-- GET all books: [https://bdf-lab-03-4csv.onrender.com/books](https://bdf-lab-03-4csv.onrender.com/books)
-- GET book by ID: [https://bdf-lab-03-4csv.onrender.com/books/1](https://bdf-lab-03-4csv.onrender.com/books/1)
+- GET all books: [https://bdf-lab-3-t3tb.onrender.com/books](https://bdf-lab-3-t3tb.onrender.com/books)
+- GET book by ID: [https://bdf-lab-3-t3tb.onrender.com/books/1](https://bdf-lab-3-t3tb.onrender.com/books/1)
 
 The application is hosted using Render's free web service plan.
 
