@@ -1,7 +1,6 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
 **Name:** M. Dhyana Raghavendra
-
 **Registration Number:** 252U1R8052  
 **Class:** B.Tech CSE (Quantum Engineering) – 2B  
 **Section:** S-13 204  
@@ -188,25 +187,6 @@ Error responses use a consistent JSON message format.
 ### 19. GET API – Verify Book Deletion
 
 ![Verify deletion](screenshots/verify-deletion.png)
-
-## Debugging Common Errors
-
-The following debugging exercises were performed as part of the lab:
-
-1. **Port conflict (`EADDRINUSE`):** Identified an existing process using port 3000 and resolved the port conflict.
-2. **Wrong import path:** Practised identifying and correcting an invalid module or file import path.
-3. **Table-name typo:** Identified the SQLite error caused by using an incorrect table name and restored the correct table name.
-4. **Missing `await`:** Observed the incorrect response caused by not awaiting an asynchronous database query and restored `await`.
-
-### Debugging Screenshots
-
-![Port conflict error](screenshots/port-conflict-error.png)
-
-![Wrong import path error](screenshots/importing-unknown-file.png)
-
-![Table name typo error](screenshots/table-name-typo-error.png)
-
-![Missing await error](screenshots/missing-await-error.png)
 
 ## Problems Faced and Solutions
 
